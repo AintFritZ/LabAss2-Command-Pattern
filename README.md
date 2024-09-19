@@ -17,4 +17,4 @@ In your solution you must provide the following in your Github link account:
   Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
 
-![459342038_1005959414640460_7851812292418296603_n](https://github.com/user-attachments/assets/d4563e6f-cb28-4029-a5be-48d8cfc69493)
+![UML](https://github.com/user-attachments/assets/aab458e0-07c0-4220-aedf-a986dc1ed0d2)
